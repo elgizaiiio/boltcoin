@@ -1,0 +1,19 @@
+{
+  "title": "Invite Friends",
+  "description": "Invite friends and earn $BOLT together! You get 10% of their earnings, and they get a bonus for joining through you.",
+  "yourReferralCode": "Your Referral Code",
+  "copyCodeButton": "Copy Code",
+  "shareLinkButton": "Share Link",
+  "referredUsersTitle": "Referred Users",
+  "noReferredUsers": "You haven't referred any users yet.",
+  "totalBonus": "Total Bonus from Referrals",
+  "bonusFromUser": "Bonus from {{userName}}",
+  "yourLink": "Your Referral Link",
+  "copyButton": "Copy Link",
+  "linkCopied": "Your referral link has been copied.",
+  "mechanismTitle": "Referral Mechanism",
+  "step1": "Send your referral link to your friends.",
+  "step2": "When your friend clicks the link, they will be redirected to",
+  "step3": "From there, they will be automatically redirected to the Telegram bot",
+  "step4": "Successful referral will be confirmed once the friend completes the necessary steps through the bot."
+}

@@ -1,0 +1,16 @@
+
+{
+  "guest": "Guest",
+  "boltBalance": "$BOLT Balance",
+  "changeLanguage": "Change Language",
+  "editProfile": "Edit Profile",
+  "selectLanguageTitle": "Select Your Language",
+  "nav.mining": "Mining",
+  "nav.referral": "Referrals",
+  "nav.wallet": "Wallet",
+  "nav.tasks": "Tasks",
+  "nav.games": "Games",
+  "nav.membership": "Membership",
+  "nav.admin": "Admin",
+  "logoutButton": "Logout"
+}

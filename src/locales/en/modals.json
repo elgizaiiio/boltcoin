@@ -1,0 +1,25 @@
+
+{
+  "welcomeModal.title": "Welcome to BoltCoin!",
+  "welcomeModal.description": "Get ready to mine $BOLT, play games, and earn crypto. Let's get you set up.",
+  "welcomeModal.selectLanguage": "Select Your Language:",
+  "welcomeModal.nextButton": "Next",
+  "welcomeModal.miningDesc": "Start earning $BOLT right away with our user-friendly mining process.",
+  "welcomeModal.referralDesc": "Invite your friends and team up to boost your earnings together.",
+  "welcomeModal.tasksDesc": "Complete tasks to earn more $BOLT and unlock exclusive rewards.",
+  "welcomeModal.gamesDesc": "Enjoy a variety of fun games and win $BOLT while you play.",
+  "welcomeModal.ctaButton": "Let's Get Started!",
+  "userProfileSetupModal.title": "Set Up Your Profile",
+  "userProfileSetupModal.description": "Personalize your BoltCoin experience.",
+  "userProfileSetupModal.nameLabel": "Your Name:",
+  "userProfileSetupModal.namePlaceholder": "Enter your name",
+  "userProfileSetupModal.avatarLabel": "Profile Picture (Optional):",
+  "userProfileSetupModal.avatarUploadButton": "Upload Image",
+  "userProfileSetupModal.avatarUploading": "Uploading...",
+  "userProfileSetupModal.avatarUploadSuccess": "Image uploaded!",
+  "userProfileSetupModal.avatarUploadError": "Upload failed. Try a different image.",
+  "userProfileSetupModal.saveButton": "Save Profile",
+  "userProfileSetupModal.profileSaved": "Profile saved successfully!",
+  "userProfileSetupModal.languageLabel": "Preferred Language:",
+  "userProfileSetupModal.nameRequired": "Name is required."
+}

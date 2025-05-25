@@ -1,0 +1,20 @@
+{
+  "mainTitle": "Complete Tasks, Earn Rewards",
+  "mainDescription": "Boost your $BOLT balance by completing simple tasks.",
+  "rewardLabel": "Reward",
+  "completeTaskButton": "Complete Task",
+  "completedButton": "Completed",
+  "verifyingDescription": "We are verifying your task completion. Please wait a moment.",
+  "taskCompletedToast.title": "Task Verified!",
+  "taskCompletedToast.description": "Your task has been successfully verified and rewards added.",
+  "taskCompletedToast.descriptionWithPoints": "Task verified! You earned {{points}} $BOLT.",
+  "taskAlreadyCompleted": "This task has already been completed.",
+  "noTasksAvailable": "No tasks available at the moment. Check back later!",
+  "visitLink": "Visit Link",
+  "bonus": "Bonus",
+  "task1Title": "Follow us on Twitter",
+  "task2Title": "Join our Telegram Channel",
+  "task3Title": "Subscribe to our YouTube",
+  "task4Title": "Daily Check-in",
+  "task5Title": "Invite 3 Friends"
+}
